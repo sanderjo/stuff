@@ -2,6 +2,25 @@
 
 '''
 Analysis of trackers in a .torrent file: IPv6 or not
+
+Example usage:
+
+$ python find-trackers.py some-torrent.torrent 
+Analysis of the trackers of torrent file some-torrent.torrent
+open.demonii.com 2a05:dfc0:1ee4::deee:20
+open.demonii.com 2a05:dfc0:1ee4::deee:20
+tracker.publicbt.com no IPv6
+tracker.openbittorrent.com no IPv6
+tracker.istole.it no IPv6
+torcache.net no IPv6
+
+$ python find-trackers.py ubuntu-15.04-desktop-amd64.iso.torrent
+Analysis of the trackers of torrent file ubuntu-15.04-desktop-amd64.iso.torrent
+torrent.ubuntu.com no IPv6
+torrent.ubuntu.com no IPv6
+ipv6.torrent.ubuntu.com 2001:7b8:3:37::21:3
+
+
 '''
 
 import sys
