@@ -20,6 +20,10 @@ torrent.ubuntu.com no IPv6
 torrent.ubuntu.com no IPv6
 ipv6.torrent.ubuntu.com 2001:7b8:3:37::21:3
 
+To check all torrent files:
+
+ls *.torrent | xargs -i  python find-trackers.py {}
+
 
 '''
 
