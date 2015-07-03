@@ -4,18 +4,18 @@ import urllib2
 
 # list of URLs that will give back the IPv4 address, in plain text, with not any extra at all
 resolvelist= [
-	'http://api.ipify.org',
-	'http://ip4.telize.com/', 
-	'http://ifconfig.me/ip', 
-	'http://wgetip.com/',
-	'http://v4.ident.me/',
 	'http://4.ifcfg.me/i',
-	'http://ipv4.myexternalip.com/raw',
+	'http://api.ipify.org',
+	'http://echoip.com/',
+	'http://ifconfig.me/ip', 
+	'http://ip4.telize.com/', 
+	'http://ipecho.net/plain',
 	'http://ipinfo.io/ip',
 	'http://ipv4.icanhazip.com/',
-	'http://ipecho.net/plain',
-	'http://echoip.com/',
-	'https://ipv4.wtfismyip.com/text'
+	'http://ipv4.myexternalip.com/raw',
+	'https://ipv4.wtfismyip.com/text',
+	'http://v4.ident.me/',
+	'http://wgetip.com/'
     ]
 
 random.shuffle(resolvelist)	# each randomize the order of the list
@@ -36,4 +36,4 @@ for i in range(0,maxurls):
 		pass
 
 print public_ipv4
-if public_ipv4: print "Found in loop", i+1
+if public_ipv4: print "Found in loop", i+1, "via", resolvelist[i]
