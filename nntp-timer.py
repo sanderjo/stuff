@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 # Tool to measure the connection speed to ALL addresses (IPv4 and IPv6) of a specified NNTP newsserver
+# This is implementation of RFC 6555 / Happy Eyeballs, without using crafted SYN packets
 
 import nntplib
 import sys
@@ -10,6 +11,10 @@ import time
 orig_timeout = socket.getdefaulttimeout()
 socket.setdefaulttimeout(2.0)
 print "Let's go"
+
+shortesttime = 10000000
+fastserver = None
+
 
 if len(sys.argv) >= 2:
     newsserver = sys.argv[1]
@@ -25,14 +30,17 @@ for i in socket.getaddrinfo(newsserver, 80, 0, 0, socket.IPPROTO_TCP):
     start = time.clock()
     try:
         s = nntplib.NNTP(address)
+        #print s.getwelcome()
+        delay = 1000.0*(time.clock() - start)
+        print "Welcome message took:", delay, "msec"
+        if delay < shortesttime:
+            shortesttime = delay
+            fastserver = address
     except:
         print "Setting up connection went wrong. Exiting."
-        sys.exit(1)
+        pass
 
-    #print s.getwelcome()
-    stop = time.clock()
-    print "Welcome message took:", 1000*(stop-start), "msec"
-
+print "\nFastest server address:", fastserver
 socket.setdefaulttimeout(orig_timeout)
 
 
