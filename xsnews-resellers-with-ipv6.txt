@@ -1,0 +1,26 @@
+Newsserver is 2001:67c:174:101:0:65:ff02:1
+200 Welcome to Usenet2go
+--
+Newsserver is 2001:67c:174:101:0:65:ff02:121
+200 Welcome to Astinews
+--
+Newsserver is 2001:67c:174:101:0:65:ff02:122
+200 Welcome to Newsxs
+--
+Newsserver is 2001:67c:174:101:0:65:ff02:126
+200 Welcome to Bullcat
+--
+Newsserver is 2001:67c:174:101:0:65:ff02:129
+200 Welcome to Unet
+--
+Newsserver is 2001:67c:174:101:0:65:ff02:131
+200 Welcome to XS News
+--
+Newsserver is 2001:67c:174:101:0:65:ff02:132
+200 Welcome to I-Telligent
+--
+Newsserver is 2001:67c:174:101:0:65:ff02:133
+200 Banner Welcome to Aviteo Ltd DE
+--
+Newsserver is 2001:67c:174:101:0:65:ff02:135
+200 Welcome to Its Hosted

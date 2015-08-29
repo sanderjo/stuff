@@ -1,0 +1,607 @@
+Let's go
+Newsserver is news.123usenet.nl
+200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)
+205 Goodbye
+Let's go
+Newsserver is news.4ux.nl
+200 Welcome to 4 Usenet Xs
+205 Bye. 28 bytes written, 0 accounted.
+Let's go
+Newsserver is news.abook.ws
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.adzerk.net
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.aeton.nl
+201 reader.ateon.nl (frontend-F07-04) Server Ready - 
+205 Transferred 55 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.alibis.com
+200 NNRP server716 news.usenetnewsserver.com (reader1)  - problems - email support@usenetnewsserver.com (posting ok)
+205 Transferred 118 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.altbinaries.com
+200 Welcome (fx25.iad)
+205 Goodbye
+Let's go
+Newsserver is news.altopia.com
+200 Check out http://www.altopia.com/ for info about NNTP access (posting ok).
+205 .
+Let's go
+Newsserver is news.am4.highwinds-media.com
+200 Welcome (fx11.am4)
+205 Goodbye
+Let's go
+Newsserver is news.ams.newshosting.com
+200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com (fx47.am4)
+205 Goodbye
+Let's go
+Newsserver is news.ams.usenetserver.com
+200 news.usenetserver.com Welcome! (fx46.am4)
+205 Goodbye
+Let's go
+Newsserver is news.anarqy.com
+200 Welcome NNTPSwitch-0.12, 111079 groups available, posting allowed, slot 2, connections 1
+205 Exit articles 0, bytes 0, groups 0, posts 0, postbytes 0
+Let's go
+Newsserver is news.anonynews.com
+200 NNRP mrn09.iad news.anonynews.com (reader1)  - problems - email support@anonynews.com (posting ok)
+205 Transferred 104 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.apple.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.astraweb.com
+200 news.astraweb.com NNRP Service Ready (posting ok) (yEnc enabled).
+205 Transferred 71 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.atlantisnews.com
+200 Welcome (fx24.am4)
+205 Goodbye
+Let's go
+Newsserver is news.binaryboy.com
+200 Welcome (fx12.iad)
+205 Goodbye
+Let's go
+Newsserver is news.bintube.com
+200 news.bintube.com NNRP Service Ready (posting ok) (yEnc enabled). (fx06.fr7)
+205 Goodbye
+Let's go
+Newsserver is news.blocknews.net
+200 NNRP server716 news.blocknews.net (reader1)  - problems - email support@blocknews.net (posting ok)
+205 Transferred 104 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.budgetnews.net
+200 Welcome to budgetnews.net (fx13.am4)
+205 Goodbye
+Let's go
+Newsserver is news.bulknews.eu
+200 Welcome to Bulknews
+205 Bye. 25 bytes written, 0 accounted.
+Let's go
+Newsserver is news.cheapnews.eu
+200 Welcome to Cheapnews
+205 Bye. 26 bytes written, 0 accounted.
+Let's go
+Newsserver is news.couchpota.to
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.co.uk
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.co.za
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.dozenzb.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.easynews.com
+200 news.easynews.com Welcome! (fx42.am4)
+205 Goodbye
+Let's go
+Newsserver is news.easyusenet.nl
+200 Welcome to Easyusenet
+205 Bye. 27 bytes written, 0 accounted.
+Let's go
+Newsserver is news.eu.easynews.com
+200 news.easynews.com Welcome! (fx06.am4)
+205 Goodbye
+Let's go
+Newsserver is news.eweka.nl
+200 Welcome to Eweka (fx46.am4)
+205 Goodbye
+Let's go
+Newsserver is news.extremeusenet.nl
+200 Welcome to ExtremeUsenet
+205 Goodbye
+Let's go
+Newsserver is news.fastusenet.org
+200 NNRP server716 news.fastusenet.org (reader1)  - problems - email support@fastusenet.org (posting ok)
+205 Transferred 106 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.flashnewsgroups.com
+200 news.flashnewsgroups.com
+205 Exit articles 0, bytes 0, groups 0, posts 0, postbytes 0
+Let's go
+Newsserver is news.forteinc.com
+200 Welcome to Forte Premium.  Please Authenticate. (fx39.am4)
+205 Goodbye
+Let's go
+Newsserver is news.frugalusenet.com
+200 NNRP server716 news.frugalusenet.com (reader1)  - problems - email support@frugalusenet.com (posting ok)
+205 Transferred 110 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.geo.highwinds-media.com
+200 Welcome (fx33.am4)
+205 Goodbye
+Let's go
+Newsserver is news.geo.newsleecher.com
+200 Welcome (fx23.fr7)
+205 Goodbye
+Let's go
+Newsserver is news.geo.sslusenet.com
+200 Welcome (fx44.am4)
+205 Goodbye
+Let's go
+Newsserver is news.getnzb.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.giganews.com
+200 News.GigaNews.Com
+205 goodbye
+Let's go
+Newsserver is news.github.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.google.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.hitnews.com
+200 Welcome to hitnews.com (fx29.am4)
+205 Goodbye
+Let's go
+Newsserver is news.illiminews.com
+200 news.iLLimiNews.com
+Let's go
+Newsserver is news.iload-usenet.com
+200 Welcome (fx18.fr7)
+205 Goodbye
+Let's go
+Newsserver is news.i-telligent.com
+200 Welcome to I-telligent NNTPSwitch-SVN-811, 55496 groups available, posting allowed, slot 22, connections 1
+205 Exit articles 0, bytes 0, groups 0, posts 0, postbytes 0
+Let's go
+Newsserver is news.lad1337.de
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.l.google.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.maximumusenet.com
+200 Welcome (fx09.iad)
+205 Goodbye
+Let's go
+Newsserver is news.megabitz.net
+200 nnrp2-asbnva.megabitz.net NNRP Service Ready - support@megabitz.net (posting ok).
+205 Transferred 87 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.mijnusenet.nl
+200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)
+205 Goodbye
+Let's go
+Newsserver is news.mozilla.giganews.com
+200 news.mozilla.org
+205 goodbye
+Let's go
+Newsserver is news.mozilla.org
+200 news.mozilla.org
+205 goodbye
+Let's go
+Newsserver is news.newsbin.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.newsconnection.eu
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.newsdemon.com
+200 Welcome (fx18.am4)
+205 Goodbye
+Let's go
+Newsserver is news.newsgrabber.nl
+200 Welcome to newsgrabber.nl NNTPSwitch-SVN-811, 55496 groups available, posting allowed, slot 114, connections 1
+205 Exit articles 0, bytes 0, groups 0, posts 0, postbytes 0
+Let's go
+Newsserver is news.newsgroup-binaries.com
+200 Welcome (fx09.iad)
+205 Goodbye
+Let's go
+Newsserver is news.newsgroupdirect.com
+200 Welcome (fx43.am4)
+205 Goodbye
+Let's go
+Newsserver is news.newsguy.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.newshosting.com
+200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com (fx28.am4)
+205 Goodbye
+Let's go
+Newsserver is news.newsleecher.com
+200 Welcome (fx11.fr7)
+205 Goodbye
+Let's go
+Newsserver is news.newsoo.fr
+200 Bienvenue sur Newsoo !
+205 A la prochaine !
+Let's go
+Newsserver is news.newsrazor.net
+200 Welcome (fx30.iad)
+205 Goodbye
+Let's go
+Newsserver is news.newsreader.com
+200 nr5-q1.newsreader.com server703 - NNTP server ready - support@newsreader.com (posting ok)
+205 Transferred 95 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.newsxs.nl
+200 Welcome to NewsXS NNTPSwitch-SVN-811, 55496 groups available, posting allowed, slot 38, connections 1
+205 Exit articles 0, bytes 0, groups 0, posts 0, postbytes 0
+Let's go
+Newsserver is news.ngroups.net
+200 NNRP mrn05.iad news.ngroups.net (reader1)  - problems - email support@ngroups.net (posting ok)
+205 Transferred 100 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.nntpjunkie.com
+200 news3.nntpjunkie.com ready (posting ok).
+205
+Let's go
+Newsserver is news.panic.com
+200 Welcome (fx18.am4)
+205 Goodbye
+Let's go
+Newsserver is news.powerusenet.com
+200 Power Usenet - Unlimited USENET Power!
+205 goodbye
+Let's go
+Newsserver is news.prepaid-usenet.de
+200 Welcome (fx19.fr7)
+205 Goodbye
+Let's go
+Newsserver is news.pureusenet.nl
+200 news.pureusenet.nl NNRP Service Ready - support@pureusenet.nl
+205 Goodbye
+Let's go
+Newsserver is news.readnews.com
+200 NNRP readnews.com (reader/individual A) - problems - email newsadmin@readnews.com (posting ok)
+205 Transferred 100 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.reddit.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.redorbnews.com
+200 Welcome (fx29.iad)
+205 Goodbye
+Let's go
+Newsserver is news.rhinonewsgroups.com
+200 Rhino Newsgroups - Newsgroups with an attitude!
+205 goodbye
+Let's go
+Newsserver is news.shemes.com
+200 Welcome (fx06.fr7)
+205 Goodbye
+Let's go
+Newsserver is news.simonews.com
+200 Welcome (fx16.fr7)
+205 Goodbye
+Let's go
+Newsserver is news.smsusenet.nl
+201 news.smsusenet.nl (frontend-F01-18) Server Ready - info@smsusenet.nl
+205 Transferred 74 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.snelnl.com
+200 Welcome (fx20.fr7)
+205 Goodbye
+Let's go
+Newsserver is news.sonarr.tv
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.sonic-news.com
+200 Welcome NNTPSwitch-0.12, 111079 groups available, posting allowed, slot 2, connections 1
+205 Exit articles 0, bytes 0, groups 0, posts 0, postbytes 0
+Let's go
+Newsserver is news.speedplaza.net
+200 Welcome to Speedplaza NNTPSwitch-SVN-811, 55496 groups available, posting allowed, slot 116, connections 1
+205 Exit articles 0, bytes 0, groups 0, posts 0, postbytes 0
+Let's go
+Newsserver is news.ssl-news.info
+201 reader.ssl-news.info (frontend-F01-19) Server Ready - 
+205 Transferred 60 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.sslusenet.com
+200 Welcome (fx08.am4)
+205 Goodbye
+Let's go
+Newsserver is news.sunnyusenet.com
+200 news.sunnyusenet.com NNRP Service Ready - support@sunnyusenet.com
+205 Goodbye
+Let's go
+Newsserver is news.supernews.com
+200 Supernews server ready
+205 goodbye
+Let's go
+Newsserver is news.surfino.com
+200 Welcome to Treonet NNTPSwitch-SVN-811, 55496 groups available, posting allowed, slot 140, connections 1
+205 Exit articles 0, bytes 0, groups 0, posts 0, postbytes 0
+Let's go
+Newsserver is news.thecubenet.com
+200 Welcome (fx25.iad)
+205 Goodbye
+Let's go
+Newsserver is news.thenewsgroups.com
+200 Welcome (fx12.iad)
+205 Goodbye
+Let's go
+Newsserver is news.thundernews.com
+200 Welcome (fx23.am4)
+205 Goodbye
+Let's go
+Newsserver is news.tigerusenet.com
+200 Welcome (fx13.iad)
+205 Goodbye
+Let's go
+Newsserver is news.tweaknews.eu
+200 news.tweak-news.eu NNRP Service Ready - newsmaster@tweak-news.eu (posting ok)
+205 Goodbye
+Let's go
+Newsserver is news.united-newsserver.de
+200 news6-2.united-newsserver.de NNRP Service Ready (posting ok).
+205 Transferred 67 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.usebits.net
+201 94.232.116.93 (frontend-F08-03) Server Ready - support@usebits.net
+205 Transferred 72 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.usenet4u.nl
+200 Welcome (fx05.am4)
+205 Goodbye
+Let's go
+Newsserver is news.usenet-access.com
+200 Welcome (fx12.iad)
+205 Goodbye
+Let's go
+Newsserver is news.usenetbyorder.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is news.usenetcentral.com
+200 NNRP server703 news.usenetcentral.com (reader1)  - problems - email support@usenetcentral.com (posting ok)
+205 Transferred 112 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.usenetmonster.com
+200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com (fx42.am4)
+205 Goodbye
+Let's go
+Newsserver is news.usenet.net
+200 Usenet.net
+205 goodbye
+Let's go
+Newsserver is news.usenetnewsserver.com
+200 NNRP server716 news.usenetnewsserver.com (reader1)  - problems - email support@usenetnewsserver.com (posting ok)
+205 Transferred 118 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.usenetnow.net
+200 NNRP server716 news.usenetnow.net (reader1)  - problems - email support@usenetnow.net (posting ok)
+205 Transferred 104 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.usenet.pro
+200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)
+205 Goodbye
+Let's go
+Newsserver is news.usenetrocket.com
+200 NNRP news.usenetrocket.com (reader1)  - problems - email support@usenetrocket.com (posting ok)
+205 Transferred 100 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.usenet.se
+200 news.usenet.se NNRP Service Ready - support@usenet.se (posting ok)
+205 Thanks for playing.	Disconnecting.
+Let's go
+Newsserver is news.usenetserver.com
+200 news.usenetserver.com Welcome! (fx25.am4)
+205 Goodbye
+Let's go
+Newsserver is news.usenetter.nl
+201 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading).
+205 Transferred 94 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.usenet-to-go.de
+201 reader.ateon.nl (frontend-F02-06) Server Ready - 
+205 Transferred 55 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.usenext.com
+200 Banner Welcome to Aviteo Ltd DE
+205 Bye. 37 bytes written, 0 accounted.
+Let's go
+Newsserver is news.voordeligusenet.nl
+200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)
+205 Goodbye
+Let's go
+Newsserver is news.xennews.com
+200 Welcome to xennews.com (fx31.fr7)
+205 Goodbye
+Let's go
+Newsserver is news.xlned.com
+200 news.xlned.com NNRP Service Ready - support@xlned.com
+205 Goodbye
+Let's go
+Newsserver is news.xlusenet.nl
+200 Welcome (fx21.fr7)
+205 Goodbye
+Let's go
+Newsserver is news.xs4all.nl
+200 news.xs4all.nl NNRP Service Ready (posting ok).
+205 Transferred 53 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is news.yabnews.nl
+200 Welcome to Yabnews
+205 Bye. 24 bytes written, 0 accounted.
+Let's go
+Newsserver is news.z51.biz
+200 Welcome to z51.biz NNTPSwitch-SVN-811, 55496 groups available, posting allowed, slot 20, connections 1
+205 Exit articles 0, bytes 0, groups 0, posts 0, postbytes 0
+Let's go
+Newsserver is reader.123usenet.nl
+201 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading).
+205 Transferred 94 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is reader.4ux.nl
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.abook.ws
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.adzerk.net
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.apple.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.astinews.de
+200 Welcome to Astinews
+205 Bye. 25 bytes written, 0 accounted.
+Let's go
+Newsserver is reader.binaryboy.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.couchpota.to
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.co.za
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.dozenzb.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.easyusenet.nl
+200 Welcome to Easyusenet
+205 Bye. 27 bytes written, 0 accounted.
+Let's go
+Newsserver is reader.extremeusenet.nl
+201 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading).
+205 Transferred 94 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is reader.getnzb.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.github.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.google.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.iload-usenet.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.i-telligent.com
+200 Welcome to I-telligent NNTPSwitch-SVN-811, 55496 groups available, posting allowed, slot 5, connections 1
+205 Exit articles 0, bytes 0, groups 0, posts 0, postbytes 0
+Let's go
+Newsserver is reader.lad1337.de
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.maximumusenet.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.mijnusenet.nl
+201 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading).
+205 Transferred 94 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is reader.newsconnection.eu
+201 reader.snellerdownloaden.com (frontend-F05-04) Server Ready - info@snellerdownloaden.com
+205 Transferred 94 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is reader.newsgrabber.nl
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.newsxs.nl
+200 Welcome to NewsXS NNTPSwitch-SVN-811, 55496 groups available, posting allowed, slot 161, connections 1
+205 Exit articles 0, bytes 0, groups 0, posts 0, postbytes 0
+Let's go
+Newsserver is reader.nntpjunkie.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.powernews.nl
+201 reader.powernews.nl (frontend-F05-10) Server Ready - support@powernews.nl
+205 Transferred 79 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is reader.prepaid-usenet.de
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.readnews.com
+200 NNRP readnews.com (reader/individual A) - problems - email newsadmin@readnews.com (posting ok)
+205 Transferred 100 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is reader.reddit.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.smsusenet.nl
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.snelnl.com
+200 Welcome (fx41.am4)
+205 Goodbye
+Let's go
+Newsserver is reader.sonarr.tv
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.speedplaza.net
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.ssl-news.info
+201 reader.ssl-news.info (frontend-F08-04) Server Ready - 
+205 Transferred 60 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is reader.tigerusenet.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.usenet4u.nl
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.usenet-access.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.usenetbucket.com
+200 Welcome to usenetbucket
+205 Bye. 29 bytes written, 0 accounted.
+Let's go
+Newsserver is reader.usenetbyorder.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.usenetnewsserver.com
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is reader.usenet.pro
+201 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading).
+205 Transferred 94 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is reader.usenetter.nl
+200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)
+205 Goodbye
+Let's go
+Newsserver is reader.usenetxl.nl
+201 reader.usenetxl.nl (frontend-F01-11) Server Ready - info@usenetxl.nl
+205 Transferred 74 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is reader.voordeligusenet.nl
+201 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading).
+205 Transferred 94 bytes in 0 articles, 0 groups.  Disconnecting.
+Let's go
+Newsserver is reader.wondernews.eu
+200 Welcome to Wondernews
+205 Bye. 27 bytes written, 0 accounted.
+Let's go
+Newsserver is reader.xsnews.nl
+200 Welcome to XS News
+205 Bye. 24 bytes written, 0 accounted.
+Let's go
+Newsserver is reader.xsusenet.com
+200 Welcome (fx31.am4)
+205 Goodbye

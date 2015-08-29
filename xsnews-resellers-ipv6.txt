@@ -1,0 +1,828 @@
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:1
+200 Welcome to Usenet2go
+205 Bye. 26 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:2
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:3
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:4
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:5
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:6
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:7
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:8
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:9
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:10
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:11
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:12
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:13
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:14
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:15
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:16
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:17
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:18
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:19
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:20
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:21
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:22
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:23
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:24
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:25
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:26
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:27
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:28
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:29
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:30
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:31
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:32
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:33
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:34
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:35
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:36
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:37
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:38
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:39
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:40
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:41
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:42
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:43
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:44
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:45
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:46
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:47
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:48
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:49
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:50
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:51
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:52
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:53
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:54
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:55
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:56
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:57
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:58
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:59
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:60
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:61
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:62
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:63
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:64
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:65
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:66
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:67
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:68
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:69
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:70
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:71
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:72
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:73
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:74
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:75
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:76
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:77
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:78
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:79
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:80
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:81
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:82
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:83
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:84
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:85
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:86
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:87
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:88
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:89
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:90
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:91
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:92
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:93
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:94
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:95
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:96
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:97
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:98
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:99
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:100
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:101
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:102
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:103
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:104
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:105
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:106
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:107
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:108
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:109
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:110
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:111
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:112
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:113
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:114
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:115
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:116
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:117
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:118
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:119
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:120
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:121
+200 Welcome to Astinews
+205 Bye. 25 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:122
+200 Welcome to Newsxs
+205 Bye. 23 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:123
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:124
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:125
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:126
+200 Welcome to Bullcat
+205 Bye. 24 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:127
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:128
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:129
+200 Welcome to Unet
+205 Bye. 21 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:130
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:131
+200 Welcome to XS News
+205 Bye. 24 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:132
+200 Welcome to I-Telligent
+205 Bye. 28 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:133
+200 Banner Welcome to Aviteo Ltd DE
+205 Bye. 37 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:134
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:135
+200 Welcome to Its Hosted
+205 Bye. 27 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:136
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:137
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:138
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:139
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:140
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:141
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:142
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:143
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:144
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:145
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:146
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:147
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:148
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:149
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:150
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:151
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:152
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:153
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:154
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:155
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:156
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:157
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:158
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:159
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:160
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:161
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:162
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:163
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:164
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:165
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:166
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:167
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:168
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:169
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:170
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:171
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:172
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:173
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:174
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:175
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:176
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:177
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:178
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:179
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:180
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:181
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:182
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:183
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:184
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:185
+200 Welcome to an unconfigured NNTP server.
+205 Bye. 45 bytes written, 0 accounted.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:186
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:187
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:188
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:189
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:190
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:191
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:192
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:193
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:194
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:195
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:196
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:197
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:198
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:199
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:200
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:201
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:202
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:203
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:204
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:205
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:206
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:207
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:208
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:209
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:210
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:211
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:212
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:213
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:214
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:215
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:216
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:217
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:218
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:219
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:220
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:221
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:222
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:223
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:224
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:225
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:226
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:227
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:228
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:229
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:230
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:231
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:232
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:233
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:234
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:235
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:236
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:237
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:238
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:239
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:240
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:241
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:242
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:243
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:244
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:245
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:246
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:247
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:248
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:249
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:250
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:251
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:252
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:253
+Setting up connection went wrong. Exiting.
+Let's go
+Newsserver is 2001:67c:174:101:0:65:ff02:254
+Setting up connection went wrong. Exiting.

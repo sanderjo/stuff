@@ -1,0 +1,237 @@
+sslreader.abook.ws is an alias for abook.ws.
+abook.ws has address 200.46.204.139
+abook.ws has address 188.190.99.59
+abook.ws has address 91.213.8.27
+abook.ws mail is handled by 30 ASPMX3.GOOGLEMAIL.COM.
+abook.ws mail is handled by 30 ASPMX4.GOOGLEMAIL.COM.
+abook.ws mail is handled by 30 ASPMX2.GOOGLEMAIL.COM.
+abook.ws mail is handled by 30 ASPMX5.GOOGLEMAIL.COM.
+abook.ws mail is handled by 20 ALT2.ASPMX.L.GOOGLE.COM.
+abook.ws mail is handled by 10 ASPMX.L.GOOGLE.COM.
+abook.ws mail is handled by 20 ALT1.ASPMX.L.GOOGLE.COM.
+Host sslreader.mozilla.org not found: 3(NXDOMAIN)
+Host sslreader.alienblue.org not found: 3(NXDOMAIN)
+Host sslreader.co.za not found: 3(NXDOMAIN)
+Host sslreader.anonynews.com not found: 3(NXDOMAIN)
+Host sslreader.astinews.de not found: 3(NXDOMAIN)
+sslreader.binaryboy.com has address 199.102.160.5
+Host sslreader.blocknews.net not found: 3(NXDOMAIN)
+Host sslreader.cheapnews.eu not found: 3(NXDOMAIN)
+Host sslreader.google.com not found: 3(NXDOMAIN)
+sslreader.couchpota.to is an alias for couchpota.to.
+couchpota.to has address 5.9.136.14
+couchpota.to mail is handled by 5 ALT2.ASPMX.L.GOOGLE.COM.
+couchpota.to mail is handled by 10 ASPMX3.GOOGLEMAIL.COM.
+couchpota.to mail is handled by 1 ASPMX.L.GOOGLE.COM.
+couchpota.to mail is handled by 10 ASPMX4.GOOGLEMAIL.COM.
+couchpota.to mail is handled by 10 ASPMX2.GOOGLEMAIL.COM.
+couchpota.to mail is handled by 5 ALT1.ASPMX.L.GOOGLE.COM.
+couchpota.to mail is handled by 10 ASPMX5.GOOGLEMAIL.COM.
+Host sslreader.dognzb.cr not found: 3(NXDOMAIN)
+Host sslreader.ensnews.com not found: 3(NXDOMAIN)
+Host sslreader.blocknews.net not found: 3(NXDOMAIN)
+Host sslreader.frugalusenet.com not found: 3(NXDOMAIN)
+sslreader.getnzb.com has address 85.17.75.214
+sslreader.github.com is an alias for github.map.fastly.net.
+github.map.fastly.net has address 23.235.43.133
+Host sslreader.codeshy.com not found: 3(NXDOMAIN)
+Host sslreader.illiminews.com not found: 3(NXDOMAIN)
+sslreader.apple.com mail is handled by 10 mail-in6.apple.com.
+sslreader.apple.com mail is handled by 20 mail-in25.apple.com.
+sslreader.apple.com mail is handled by 20 mail-in22.apple.com.
+sslreader.apple.com mail is handled by 10 mail-in2.apple.com.
+sslreader.apple.com mail is handled by 20 mail-in23.apple.com.
+sslreader.apple.com mail is handled by 20 mail-in24.apple.com.
+sslreader.apple.com mail is handled by 10 mail-in4.apple.com.
+sslreader.apple.com mail is handled by 20 mail-in21.apple.com.
+sslreader.apple.com mail is handled by 10 mail-in5.apple.com.
+sslreader.apple.com mail is handled by 100 mail-in100.apple.com.
+sslreader.apple.com mail is handled by 10 mail-in7.apple.com.
+sslreader.reddit.com has address 198.41.209.136
+sslreader.reddit.com has address 198.41.209.137
+sslreader.reddit.com has address 198.41.208.143
+sslreader.reddit.com has address 198.41.209.142
+sslreader.reddit.com has address 198.41.209.143
+sslreader.reddit.com has address 198.41.208.141
+sslreader.reddit.com has address 198.41.208.139
+sslreader.reddit.com has address 198.41.209.140
+sslreader.reddit.com has address 198.41.208.137
+sslreader.reddit.com has address 198.41.208.138
+sslreader.reddit.com has address 198.41.209.139
+sslreader.reddit.com has address 198.41.208.140
+sslreader.reddit.com has address 198.41.209.141
+sslreader.reddit.com has address 198.41.208.142
+sslreader.reddit.com has address 198.41.209.138
+Host sslreader.newsbin.com not found: 3(NXDOMAIN)
+Host sslreader.newsguy.com not found: 3(NXDOMAIN)
+Host sslreader.ngroups.net not found: 3(NXDOMAIN)
+Host sslreader.tweaknews.eu not found: 3(NXDOMAIN)
+Host sslreader.nzb360.com not found: 3(NXDOMAIN)
+Host sslreader.nzb.su not found: 3(NXDOMAIN)
+sslreader.dozenzb.com has address 206.188.192.92
+Host sslreader.panic.com not found: 3(NXDOMAIN)
+Host sslreader.radioreddit.com not found: 3(NXDOMAIN)
+sslreader.reddit.com has address 198.41.209.138
+sslreader.reddit.com has address 198.41.208.142
+sslreader.reddit.com has address 198.41.209.141
+sslreader.reddit.com has address 198.41.208.140
+sslreader.reddit.com has address 198.41.209.139
+sslreader.reddit.com has address 198.41.208.138
+sslreader.reddit.com has address 198.41.208.137
+sslreader.reddit.com has address 198.41.209.140
+sslreader.reddit.com has address 198.41.208.139
+sslreader.reddit.com has address 198.41.208.141
+sslreader.reddit.com has address 198.41.209.143
+sslreader.reddit.com has address 198.41.209.142
+sslreader.reddit.com has address 198.41.208.143
+sslreader.reddit.com has address 198.41.209.137
+sslreader.reddit.com has address 198.41.209.136
+Host sslreader.redditgifts.com not found: 3(NXDOMAIN)
+Host sslreader.redditmarket.com not found: 3(NXDOMAIN)
+Host sslreader.reddit.tv not found: 3(NXDOMAIN)
+Host sslreader.sabnzbd.org not found: 3(NXDOMAIN)
+Host sslreader.secretusenet.com not found: 3(NXDOMAIN)
+Host sslreader.shemes.com not found: 3(NXDOMAIN)
+Host sslreader.sickbeard.com not found: 3(NXDOMAIN)
+sslreader.sonarr.tv is an alias for fw.sonarr.tv.
+fw.sonarr.tv has address 142.4.222.131
+sslreader.adzerk.net is an alias for ui-pool-1245539215.us-east-1.elb.amazonaws.com.
+ui-pool-1245539215.us-east-1.elb.amazonaws.com has address 54.225.161.247
+ui-pool-1245539215.us-east-1.elb.amazonaws.com has address 54.225.223.232
+Host sslreader.usenetbin.net not found: 3(NXDOMAIN)
+sslreader.usenetbyorder.com has address 141.8.225.63
+Host sslreader.usenet-news.net not found: 3(NXDOMAIN)
+Host sslreader.usenet.nl not found: 3(NXDOMAIN)
+Host sslreader.usenetnow.net not found: 3(NXDOMAIN)
+Host sslreader.usenet.pro not found: 3(NXDOMAIN)
+Host sslreader.usenet.se not found: 3(NXDOMAIN)
+Host sslreader.usenetxl.nl not found: 3(NXDOMAIN)
+Host sslreader.voordeligusenet.nl not found: 3(NXDOMAIN)
+Host sslreader.wondernews.eu not found: 3(NXDOMAIN)
+Host sslreader.worldusenet.com not found: 3(NXDOMAIN)
+Host sslreader.123usenet.nl not found: 3(NXDOMAIN)
+sslreader.4ux.nl has address 94.232.112.218
+Host sslreader.aeton.nl not found: 3(NXDOMAIN)
+Host sslreader.alibis.com not found: 3(NXDOMAIN)
+Host sslreader.altbinaries.com not found: 3(NXDOMAIN)
+Host sslreader.altopia.com not found: 3(NXDOMAIN)
+Host sslreader.anarqy.com not found: 3(NXDOMAIN)
+Host sslreader.astraweb.com not found: 3(NXDOMAIN)
+Host sslreader.atlantisnews.com not found: 3(NXDOMAIN)
+Host sslreader.bargainnewsfeeds.com not found: 3(NXDOMAIN)
+Host sslreader.bintube.com not found: 3(NXDOMAIN)
+Host sslreader.blocknews.net not found: 3(NXDOMAIN)
+Host sslreader.budgetnews.net not found: 3(NXDOMAIN)
+Host sslreader.bulknews.eu not found: 3(NXDOMAIN)
+Host sslreader.cheapnews.eu not found: 3(NXDOMAIN)
+Host sslreader.easynews.com not found: 3(NXDOMAIN)
+Host sslreader.easyusenet.nl not found: 3(NXDOMAIN)
+sslreader.eweka.nl has address 81.171.92.233
+sslreader.eweka.nl has address 81.171.92.219
+sslreader.eweka.nl has address 81.171.92.205
+Host sslreader.extremeusenet.nl not found: 3(NXDOMAIN)
+Host sslreader.fastusenet.org not found: 3(NXDOMAIN)
+Host sslreader.firstload.com not found: 3(NXDOMAIN)
+Host sslreader.flashnewsgroups.com not found: 3(NXDOMAIN)
+Host sslreader.forteinc.com not found: 3(NXDOMAIN)
+Host sslreader.gebruikhet.net not found: 3(NXDOMAIN)
+Host sslreader.giganews.com not found: 3(NXDOMAIN)
+Host sslreader.highwinds.com not found: 3(NXDOMAIN)
+Host sslreader.hitnews.com not found: 3(NXDOMAIN)
+sslreader.iload-usenet.com has address 87.119.193.149
+sslreader.i-telligent.com mail is handled by 5 smtp.rzone.de.
+Host sslreader.maraschinoproject.com not found: 3(NXDOMAIN)
+sslreader.maximumusenet.com has address 198.186.193.89
+Host sslreader.megabitz.net not found: 3(NXDOMAIN)
+Host sslreader.mijnusenet.nl not found: 3(NXDOMAIN)
+Host sslreader.netfeeds.net not found: 3(NXDOMAIN)
+Host sslreader.astraweb.com not found: 3(NXDOMAIN)
+Host sslreader.newsbin.com not found: 3(NXDOMAIN)
+sslreader.newsconnection.eu has address 185.27.142.77
+Host sslreader.newsdemon.com not found: 3(NXDOMAIN)
+Host sslreader.newsfusion.net not found: 3(NXDOMAIN)
+sslreader.newsgrabber.nl is an alias for newsgrabber.nl.
+newsgrabber.nl has address 91.205.192.246
+newsgrabber.nl mail is handled by 100 sf3.86id.nl.
+newsgrabber.nl mail is handled by 10 sf2.86id.nl.
+newsgrabber.nl mail is handled by 10 sf1.86id.nl.
+Host sslreader.newsgroup-binaries.com not found: 3(NXDOMAIN)
+Host sslreader.newsgroupdirect.com not found: 3(NXDOMAIN)
+Host sslreader.newsgroups-download.com not found: 3(NXDOMAIN)
+Host sslreader.newsguy.com not found: 3(NXDOMAIN)
+Host sslreader.newshosting.com not found: 3(NXDOMAIN)
+Host sslreader.newsleecher.com not found: 3(NXDOMAIN)
+Host sslreader.newsoo.fr not found: 3(NXDOMAIN)
+Host sslreader.newsrazor.net not found: 3(NXDOMAIN)
+Host sslreader.newsreader.com not found: 3(NXDOMAIN)
+Host sslreader.newsxs.nl not found: 3(NXDOMAIN)
+Host sslreader.newznab.com not found: 3(NXDOMAIN)
+sslreader.nntpjunkie.com mail is handled by 10 mail.nntpjunkie.com.
+Host sslreader.oznzb.com not found: 3(NXDOMAIN)
+Host sslreader.powernews.nl not found: 3(NXDOMAIN)
+Host sslreader.powerusenet.com not found: 3(NXDOMAIN)
+Host sslreader.premiumnews.de not found: 3(NXDOMAIN)
+sslreader.prepaid-usenet.de has address 213.239.210.200
+Host sslreader.pureusenet.nl not found: 3(NXDOMAIN)
+Host sslreader.readnews.com not found: 3(NXDOMAIN)
+sslreader.reddit.com has address 198.41.209.137
+sslreader.reddit.com has address 198.41.209.136
+sslreader.reddit.com has address 198.41.209.138
+sslreader.reddit.com has address 198.41.208.142
+sslreader.reddit.com has address 198.41.209.141
+sslreader.reddit.com has address 198.41.208.140
+sslreader.reddit.com has address 198.41.209.139
+sslreader.reddit.com has address 198.41.208.138
+sslreader.reddit.com has address 198.41.208.137
+sslreader.reddit.com has address 198.41.209.140
+sslreader.reddit.com has address 198.41.208.139
+sslreader.reddit.com has address 198.41.208.141
+sslreader.reddit.com has address 198.41.209.143
+sslreader.reddit.com has address 198.41.209.142
+sslreader.reddit.com has address 198.41.208.143
+Host sslreader.redorbnews.com not found: 3(NXDOMAIN)
+Host sslreader.rhinonewsgroups.com not found: 3(NXDOMAIN)
+Host sslreader.simonews.com not found: 3(NXDOMAIN)
+Host sslreader.co.uk not found: 3(NXDOMAIN)
+sslreader.smsusenet.nl is an alias for smsusenet.nl.
+smsusenet.nl has address 149.210.131.235
+smsusenet.nl has IPv6 address 2a01:7c8:aab1:543::1
+smsusenet.nl mail is handled by 100 mail.smsusenet.nl.
+Host sslreader.snelnl.com not found: 3(NXDOMAIN)
+Host sslreader.sonic-news.com not found: 3(NXDOMAIN)
+sslreader.speedplaza.net has address 85.214.196.48
+Host sslreader.ssl-news.info not found: 3(NXDOMAIN)
+Host sslreader.sunnyusenet.com not found: 3(NXDOMAIN)
+Host sslreader.supernews.com not found: 3(NXDOMAIN)
+Host sslreader.supernewsfeed.com not found: 3(NXDOMAIN)
+Host sslreader.surfino.com not found: 3(NXDOMAIN)
+Host sslreader.thecubenet.com not found: 3(NXDOMAIN)
+Host sslreader.thenewsgroups.com not found: 3(NXDOMAIN)
+Host sslreader.thundernews.com not found: 3(NXDOMAIN)
+sslreader.tigerusenet.com has address 198.186.193.86
+Host sslreader.transxs.nl not found: 3(NXDOMAIN)
+Host sslreader.tweaknews.eu not found: 3(NXDOMAIN)
+Host sslreader.united-newsserver.de not found: 3(NXDOMAIN)
+Host sslreader.usebits.net not found: 3(NXDOMAIN)
+sslreader.usenet4u.nl has address 62.221.196.37
+sslreader.usenet-access.com has address 74.86.70.62
+Host sslreader.usenetbucket.com not found: 3(NXDOMAIN)
+Host sslreader.usenetcentral.com not found: 3(NXDOMAIN)
+Host sslreader.usenetcompany.nl not found: 3(NXDOMAIN)
+Host sslreader.usenetmonster.com not found: 3(NXDOMAIN)
+Host sslreader.usenet.net not found: 3(NXDOMAIN)
+sslreader.usenetnewsserver.com has address 64.38.197.137
+Host sslreader.usenetrocket.com not found: 3(NXDOMAIN)
+Host sslreader.usenetserver.com not found: 3(NXDOMAIN)
+Host sslreader.usenet-to-go.de not found: 3(NXDOMAIN)
+Host sslreader.usenext.com not found: 3(NXDOMAIN)
+Host sslreader.xennews.com not found: 3(NXDOMAIN)
+Host sslreader.xlned.com not found: 3(NXDOMAIN)
+Host sslreader.xs4all.nl not found: 3(NXDOMAIN)
+Host sslreader.xsnews.nl not found: 3(NXDOMAIN)
+Host sslreader.xsusenet.com not found: 3(NXDOMAIN)
+sslreader.lad1337.de mail is handled by 5 smtp.rzone.de.
+Host sslreader.xlusenet.nl not found: 3(NXDOMAIN)
+Host sslreader.yabnews.nl not found: 3(NXDOMAIN)
+Host sslreader.z51.b not found: 3(NXDOMAIN)
+Host sslreader.z51.biz not found: 3(NXDOMAIN)

@@ -1,0 +1,659 @@
+news.abook.ws is an alias for abook.ws.
+abook.ws has address 200.46.204.139
+abook.ws has address 188.190.99.59
+abook.ws has address 91.213.8.27
+abook.ws mail is handled by 10 ASPMX.L.GOOGLE.COM.
+abook.ws mail is handled by 20 ALT2.ASPMX.L.GOOGLE.COM.
+abook.ws mail is handled by 30 ASPMX2.GOOGLEMAIL.COM.
+abook.ws mail is handled by 30 ASPMX3.GOOGLEMAIL.COM.
+abook.ws mail is handled by 30 ASPMX4.GOOGLEMAIL.COM.
+abook.ws mail is handled by 30 ASPMX5.GOOGLEMAIL.COM.
+abook.ws mail is handled by 20 ALT1.ASPMX.L.GOOGLE.COM.
+reader.abook.ws is an alias for abook.ws.
+abook.ws has address 91.213.8.27
+abook.ws has address 188.190.99.59
+abook.ws has address 200.46.204.139
+abook.ws mail is handled by 30 ASPMX3.GOOGLEMAIL.COM.
+abook.ws mail is handled by 20 ALT1.ASPMX.L.GOOGLE.COM.
+abook.ws mail is handled by 20 ALT2.ASPMX.L.GOOGLE.COM.
+abook.ws mail is handled by 10 ASPMX.L.GOOGLE.COM.
+abook.ws mail is handled by 30 ASPMX5.GOOGLEMAIL.COM.
+abook.ws mail is handled by 30 ASPMX2.GOOGLEMAIL.COM.
+abook.ws mail is handled by 30 ASPMX4.GOOGLEMAIL.COM.
+news.mozilla.org is an alias for news.mozilla.giganews.com.
+news.mozilla.giganews.com has address 216.166.97.169
+Host reader.mozilla.org not found: 3(NXDOMAIN)
+Host news.alienblue.org not found: 3(NXDOMAIN)
+Host reader.alienblue.org not found: 3(NXDOMAIN)
+news.co.za has address 37.188.120.176
+reader.co.za has address 208.87.35.103
+news.anonynews.com is an alias for anonynews-iad.readnews.com.
+anonynews-iad.readnews.com has address 198.186.190.16
+anonynews-iad.readnews.com has address 198.186.190.73
+Host reader.anonynews.com not found: 3(NXDOMAIN)
+Host news.astinews.de not found: 3(NXDOMAIN)
+reader.astinews.de has address 94.232.116.121
+news.binaryboy.com is an alias for nyc.binaryboy.com.
+nyc.binaryboy.com is an alias for newsfarm.iad.highwinds-media.com.
+newsfarm.iad.highwinds-media.com has address 69.16.179.21
+newsfarm.iad.highwinds-media.com has address 69.16.179.20
+reader.binaryboy.com has address 199.102.160.5
+news.blocknews.net has address 198.186.190.120
+Host reader.blocknews.net not found: 3(NXDOMAIN)
+news.cheapnews.eu has address 78.152.55.164
+news.cheapnews.eu has IPv6 address 2a02:d28:10:1b:0:431:ff02:164
+Host reader.cheapnews.eu not found: 3(NXDOMAIN)
+news.google.com is an alias for news.l.google.com.
+news.l.google.com has address 74.125.136.100
+news.l.google.com has address 74.125.136.101
+news.l.google.com has address 74.125.136.139
+news.l.google.com has address 74.125.136.113
+news.l.google.com has address 74.125.136.102
+news.l.google.com has address 74.125.136.138
+news.l.google.com has IPv6 address 2a00:1450:4013:c01::8a
+reader.google.com is an alias for www2.l.google.com.
+www2.l.google.com has address 74.125.136.147
+www2.l.google.com has address 74.125.136.106
+www2.l.google.com has address 74.125.136.105
+www2.l.google.com has address 74.125.136.99
+www2.l.google.com has address 74.125.136.103
+www2.l.google.com has address 74.125.136.104
+www2.l.google.com has IPv6 address 2a00:1450:4013:c01::93
+news.couchpota.to is an alias for couchpota.to.
+couchpota.to has address 5.9.136.14
+couchpota.to mail is handled by 10 ASPMX4.GOOGLEMAIL.COM.
+couchpota.to mail is handled by 5 ALT2.ASPMX.L.GOOGLE.COM.
+couchpota.to mail is handled by 10 ASPMX5.GOOGLEMAIL.COM.
+couchpota.to mail is handled by 5 ALT1.ASPMX.L.GOOGLE.COM.
+couchpota.to mail is handled by 1 ASPMX.L.GOOGLE.COM.
+couchpota.to mail is handled by 10 ASPMX2.GOOGLEMAIL.COM.
+couchpota.to mail is handled by 10 ASPMX3.GOOGLEMAIL.COM.
+reader.couchpota.to is an alias for couchpota.to.
+couchpota.to has address 5.9.136.14
+couchpota.to mail is handled by 10 ASPMX5.GOOGLEMAIL.COM.
+couchpota.to mail is handled by 5 ALT1.ASPMX.L.GOOGLE.COM.
+couchpota.to mail is handled by 5 ALT2.ASPMX.L.GOOGLE.COM.
+couchpota.to mail is handled by 10 ASPMX2.GOOGLEMAIL.COM.
+couchpota.to mail is handled by 10 ASPMX3.GOOGLEMAIL.COM.
+couchpota.to mail is handled by 1 ASPMX.L.GOOGLE.COM.
+couchpota.to mail is handled by 10 ASPMX4.GOOGLEMAIL.COM.
+Host news.dognzb.cr not found: 3(NXDOMAIN)
+Host reader.dognzb.cr not found: 3(NXDOMAIN)
+Host news.ensnews.com not found: 3(NXDOMAIN)
+Host reader.ensnews.com not found: 3(NXDOMAIN)
+news.blocknews.net has address 198.186.190.120
+Host reader.blocknews.net not found: 3(NXDOMAIN)
+news.frugalusenet.com has address 205.185.213.56
+news.frugalusenet.com has address 205.185.213.57
+news.frugalusenet.com has address 205.185.213.50
+news.frugalusenet.com has address 205.185.213.52
+news.frugalusenet.com has address 205.185.213.55
+news.frugalusenet.com has address 205.185.213.51
+news.frugalusenet.com has address 205.185.213.54
+news.frugalusenet.com has address 205.185.213.53
+Host reader.frugalusenet.com not found: 3(NXDOMAIN)
+news.getnzb.com has address 85.17.75.214
+reader.getnzb.com has address 85.17.75.214
+news.github.com is an alias for sendgrid.net.
+sendgrid.net has address 198.37.144.99
+sendgrid.net has address 198.37.144.92
+sendgrid.net mail is handled by 20 mx-016.sendgrid.net.
+sendgrid.net mail is handled by 10 mx.sendgrid.net.
+sendgrid.net mail is handled by 20 mx-005.sendgrid.net.
+sendgrid.net mail is handled by 20 mx-006.sendgrid.net.
+sendgrid.net mail is handled by 20 mx-001.sendgrid.net.
+sendgrid.net mail is handled by 20 mx-004.sendgrid.net.
+sendgrid.net mail is handled by 20 mx-007.sendgrid.net.
+reader.github.com is an alias for github.map.fastly.net.
+github.map.fastly.net has address 23.235.43.133
+Host news.codeshy.com not found: 3(NXDOMAIN)
+Host reader.codeshy.com not found: 3(NXDOMAIN)
+news.illiminews.com has address 212.129.8.184
+news.illiminews.com has address 212.129.8.183
+news.illiminews.com has address 212.129.8.181
+news.illiminews.com has address 212.129.8.180
+Host reader.illiminews.com not found: 3(NXDOMAIN)
+news.apple.com mail is handled by 20 mail-in22.apple.com.
+news.apple.com mail is handled by 20 mail-in23.apple.com.
+news.apple.com mail is handled by 10 mail-in6.apple.com.
+news.apple.com mail is handled by 20 mail-in25.apple.com.
+news.apple.com mail is handled by 10 mail-in4.apple.com.
+news.apple.com mail is handled by 20 mail-in21.apple.com.
+news.apple.com mail is handled by 10 mail-in2.apple.com.
+news.apple.com mail is handled by 10 mail-in7.apple.com.
+news.apple.com mail is handled by 10 mail-in5.apple.com.
+news.apple.com mail is handled by 20 mail-in24.apple.com.
+news.apple.com mail is handled by 100 mail-in100.apple.com.
+reader.apple.com mail is handled by 100 mail-in100.apple.com.
+reader.apple.com mail is handled by 10 mail-in7.apple.com.
+reader.apple.com mail is handled by 10 mail-in4.apple.com.
+reader.apple.com mail is handled by 10 mail-in5.apple.com.
+reader.apple.com mail is handled by 20 mail-in24.apple.com.
+reader.apple.com mail is handled by 20 mail-in22.apple.com.
+reader.apple.com mail is handled by 10 mail-in2.apple.com.
+reader.apple.com mail is handled by 20 mail-in21.apple.com.
+reader.apple.com mail is handled by 20 mail-in23.apple.com.
+reader.apple.com mail is handled by 10 mail-in6.apple.com.
+reader.apple.com mail is handled by 20 mail-in25.apple.com.
+news.reddit.com has address 198.41.208.143
+news.reddit.com has address 198.41.209.141
+news.reddit.com has address 198.41.209.137
+news.reddit.com has address 198.41.208.138
+news.reddit.com has address 198.41.209.142
+news.reddit.com has address 198.41.208.139
+news.reddit.com has address 198.41.209.139
+news.reddit.com has address 198.41.209.136
+news.reddit.com has address 198.41.208.137
+news.reddit.com has address 198.41.208.142
+news.reddit.com has address 198.41.209.140
+news.reddit.com has address 198.41.208.140
+news.reddit.com has address 198.41.209.138
+news.reddit.com has address 198.41.208.141
+news.reddit.com has address 198.41.209.143
+reader.reddit.com has address 198.41.208.137
+reader.reddit.com has address 198.41.208.140
+reader.reddit.com has address 198.41.209.139
+reader.reddit.com has address 198.41.209.140
+reader.reddit.com has address 198.41.208.139
+reader.reddit.com has address 198.41.209.138
+reader.reddit.com has address 198.41.209.136
+reader.reddit.com has address 198.41.208.143
+reader.reddit.com has address 198.41.209.137
+reader.reddit.com has address 198.41.209.142
+reader.reddit.com has address 198.41.208.142
+reader.reddit.com has address 198.41.208.141
+reader.reddit.com has address 198.41.208.138
+reader.reddit.com has address 198.41.209.143
+reader.reddit.com has address 198.41.209.141
+news.newsbin.com has address 96.231.36.21
+Host reader.newsbin.com not found: 3(NXDOMAIN)
+news.newsguy.com has address 74.209.136.95
+news.newsguy.com has address 74.209.136.89
+news.newsguy.com has address 74.209.136.94
+news.newsguy.com has address 74.209.136.98
+news.newsguy.com has address 74.209.136.97
+news.newsguy.com has address 74.209.136.99
+news.newsguy.com has address 74.209.136.92
+Host reader.newsguy.com not found: 3(NXDOMAIN)
+news.ngroups.net is an alias for ngroups-iad.readnews.com.
+ngroups-iad.readnews.com has address 198.186.190.13
+ngroups-iad.readnews.com has address 198.186.190.70
+Host reader.ngroups.net not found: 3(NXDOMAIN)
+news.tweaknews.eu has address 176.124.71.34
+Host reader.tweaknews.eu not found: 3(NXDOMAIN)
+Host news.nzb360.com not found: 3(NXDOMAIN)
+Host reader.nzb360.com not found: 3(NXDOMAIN)
+Host news.nzb.su not found: 3(NXDOMAIN)
+Host reader.nzb.su not found: 3(NXDOMAIN)
+news.dozenzb.com has address 206.188.192.92
+reader.dozenzb.com has address 206.188.192.92
+news.panic.com is an alias for news.geo.highwinds-media.com.
+news.geo.highwinds-media.com is an alias for news.am4.highwinds-media.com.
+news.am4.highwinds-media.com has address 81.171.92.220
+news.am4.highwinds-media.com has address 81.171.92.234
+Host reader.panic.com not found: 3(NXDOMAIN)
+Host news.radioreddit.com not found: 3(NXDOMAIN)
+Host reader.radioreddit.com not found: 3(NXDOMAIN)
+news.reddit.com has address 198.41.209.143
+news.reddit.com has address 198.41.208.141
+news.reddit.com has address 198.41.209.138
+news.reddit.com has address 198.41.208.140
+news.reddit.com has address 198.41.209.140
+news.reddit.com has address 198.41.208.142
+news.reddit.com has address 198.41.208.137
+news.reddit.com has address 198.41.209.136
+news.reddit.com has address 198.41.209.139
+news.reddit.com has address 198.41.208.139
+news.reddit.com has address 198.41.209.142
+news.reddit.com has address 198.41.208.138
+news.reddit.com has address 198.41.209.137
+news.reddit.com has address 198.41.209.141
+news.reddit.com has address 198.41.208.143
+reader.reddit.com has address 198.41.209.141
+reader.reddit.com has address 198.41.209.143
+reader.reddit.com has address 198.41.208.138
+reader.reddit.com has address 198.41.208.141
+reader.reddit.com has address 198.41.208.142
+reader.reddit.com has address 198.41.209.142
+reader.reddit.com has address 198.41.209.137
+reader.reddit.com has address 198.41.208.143
+reader.reddit.com has address 198.41.209.136
+reader.reddit.com has address 198.41.209.138
+reader.reddit.com has address 198.41.208.139
+reader.reddit.com has address 198.41.209.140
+reader.reddit.com has address 198.41.209.139
+reader.reddit.com has address 198.41.208.140
+reader.reddit.com has address 198.41.208.137
+Host news.redditgifts.com not found: 3(NXDOMAIN)
+Host reader.redditgifts.com not found: 3(NXDOMAIN)
+Host news.redditmarket.com not found: 3(NXDOMAIN)
+Host reader.redditmarket.com not found: 3(NXDOMAIN)
+Host news.reddit.tv not found: 3(NXDOMAIN)
+Host reader.reddit.tv not found: 3(NXDOMAIN)
+Host news.sabnzbd.org not found: 3(NXDOMAIN)
+Host reader.sabnzbd.org not found: 3(NXDOMAIN)
+Host news.secretusenet.com not found: 3(NXDOMAIN)
+Host reader.secretusenet.com not found: 3(NXDOMAIN)
+news.shemes.com is an alias for newsfarm.ams2.highwinds-media.com.
+newsfarm.ams2.highwinds-media.com has address 81.171.118.140
+newsfarm.ams2.highwinds-media.com has address 81.171.118.141
+newsfarm.ams2.highwinds-media.com has address 81.171.118.142
+Host reader.shemes.com not found: 3(NXDOMAIN)
+Host news.sickbeard.com not found: 3(NXDOMAIN)
+Host reader.sickbeard.com not found: 3(NXDOMAIN)
+news.sonarr.tv is an alias for fw.sonarr.tv.
+fw.sonarr.tv has address 142.4.222.131
+reader.sonarr.tv is an alias for fw.sonarr.tv.
+fw.sonarr.tv has address 142.4.222.131
+news.adzerk.net is an alias for ui-pool-1245539215.us-east-1.elb.amazonaws.com.
+ui-pool-1245539215.us-east-1.elb.amazonaws.com has address 54.225.161.247
+ui-pool-1245539215.us-east-1.elb.amazonaws.com has address 54.225.223.232
+reader.adzerk.net is an alias for ui-pool-1245539215.us-east-1.elb.amazonaws.com.
+ui-pool-1245539215.us-east-1.elb.amazonaws.com has address 54.225.223.232
+ui-pool-1245539215.us-east-1.elb.amazonaws.com has address 54.225.161.247
+Host news.usenetbin.net not found: 3(NXDOMAIN)
+Host reader.usenetbin.net not found: 3(NXDOMAIN)
+news.usenetbyorder.com has address 141.8.225.63
+reader.usenetbyorder.com has address 141.8.225.63
+Host news.usenet-news.net not found: 3(NXDOMAIN)
+Host reader.usenet-news.net not found: 3(NXDOMAIN)
+Host news.usenet.nl not found: 3(NXDOMAIN)
+Host reader.usenet.nl not found: 3(NXDOMAIN)
+news.usenetnow.net has address 198.186.190.234
+Host reader.usenetnow.net not found: 3(NXDOMAIN)
+news.usenet.pro is an alias for reader.usenetter.nl.
+reader.usenetter.nl has address 85.12.14.21
+reader.usenetter.nl has address 85.12.14.22
+reader.usenet.pro is an alias for news.usenetter.nl.
+news.usenetter.nl is an alias for usenetter.nntpxs.com.
+usenetter.nntpxs.com has address 195.200.85.22
+usenetter.nntpxs.com has address 195.200.85.21
+news.usenet.se is an alias for usenetse-ams.readnews.com.
+usenetse-ams.readnews.com has address 74.209.132.145
+usenetse-ams.readnews.com has address 74.209.132.144
+Host reader.usenet.se not found: 3(NXDOMAIN)
+Host news.usenetxl.nl not found: 3(NXDOMAIN)
+reader.usenetxl.nl has address 94.232.116.86
+news.voordeligusenet.nl is an alias for reader.usenetter.nl.
+reader.usenetter.nl has address 85.12.14.22
+reader.usenetter.nl has address 85.12.14.21
+reader.voordeligusenet.nl is an alias for news.usenetter.nl.
+news.usenetter.nl is an alias for usenetter.nntpxs.com.
+usenetter.nntpxs.com has address 195.200.85.21
+usenetter.nntpxs.com has address 195.200.85.22
+Host news.wondernews.eu not found: 3(NXDOMAIN)
+reader.wondernews.eu has address 91.234.215.193
+Host news.worldusenet.com not found: 3(NXDOMAIN)
+Host reader.worldusenet.com not found: 3(NXDOMAIN)
+news.123usenet.nl is an alias for reader.usenetter.nl.
+reader.usenetter.nl has address 85.12.14.21
+reader.usenetter.nl has address 85.12.14.22
+reader.123usenet.nl is an alias for news.usenetter.nl.
+news.usenetter.nl is an alias for usenetter.nntpxs.com.
+usenetter.nntpxs.com has address 195.200.85.21
+usenetter.nntpxs.com has address 195.200.85.22
+news.4ux.nl has address 91.234.215.192
+reader.4ux.nl has address 94.232.112.218
+news.aeton.nl has address 94.232.119.102
+Host reader.aeton.nl not found: 3(NXDOMAIN)
+news.alibis.com has address 198.186.190.156
+Host reader.alibis.com not found: 3(NXDOMAIN)
+news.altbinaries.com has address 69.16.179.22
+Host reader.altbinaries.com not found: 3(NXDOMAIN)
+news.altopia.com has address 208.90.168.18
+Host reader.altopia.com not found: 3(NXDOMAIN)
+news.anarqy.com has address 151.80.78.55
+Host reader.anarqy.com not found: 3(NXDOMAIN)
+news.astraweb.com has address 91.208.207.55
+news.astraweb.com has address 91.208.207.57
+news.astraweb.com has address 193.202.122.57
+news.astraweb.com has address 91.208.207.59
+news.astraweb.com has address 91.208.207.166
+news.astraweb.com has address 91.208.207.163
+news.astraweb.com has address 91.208.207.173
+news.astraweb.com has address 91.208.207.175
+Host reader.astraweb.com not found: 3(NXDOMAIN)
+news.atlantisnews.com is an alias for newsfarm.geo.highwinds-media.com.
+newsfarm.geo.highwinds-media.com is an alias for news.geo.highwinds-media.com.
+news.geo.highwinds-media.com is an alias for news.am4.highwinds-media.com.
+news.am4.highwinds-media.com has address 81.171.92.220
+news.am4.highwinds-media.com has address 81.171.92.234
+Host reader.atlantisnews.com not found: 3(NXDOMAIN)
+Host news.bargainnewsfeeds.com not found: 3(NXDOMAIN)
+Host reader.bargainnewsfeeds.com not found: 3(NXDOMAIN)
+news.bintube.com is an alias for eu.bintube.com.
+eu.bintube.com is an alias for eu2.bintube.com.
+eu2.bintube.com has address 81.171.92.235
+eu2.bintube.com has address 81.171.118.143
+eu2.bintube.com has address 81.171.92.221
+eu2.bintube.com has address 81.171.118.145
+eu2.bintube.com has address 81.171.118.144
+Host reader.bintube.com not found: 3(NXDOMAIN)
+news.blocknews.net has address 198.186.190.120
+Host reader.blocknews.net not found: 3(NXDOMAIN)
+news.budgetnews.net is an alias for budgetnews.svc.highwinds-media.com.
+budgetnews.svc.highwinds-media.com has address 81.171.118.174
+budgetnews.svc.highwinds-media.com has address 81.171.92.193
+Host reader.budgetnews.net not found: 3(NXDOMAIN)
+news.bulknews.eu has address 78.152.60.164
+news.bulknews.eu has IPv6 address 2a02:d28:10:1c:0:407:ff02:164
+Host reader.bulknews.eu not found: 3(NXDOMAIN)
+news.cheapnews.eu has address 78.152.55.164
+news.cheapnews.eu has IPv6 address 2a02:d28:10:1b:0:431:ff02:164
+Host reader.cheapnews.eu not found: 3(NXDOMAIN)
+news.easynews.com is an alias for news.eu.easynews.com.
+news.eu.easynews.com has address 81.171.92.197
+Host reader.easynews.com not found: 3(NXDOMAIN)
+news.easyusenet.nl is an alias for reader.easyusenet.nl.
+reader.easyusenet.nl has address 94.232.116.128
+reader.easyusenet.nl has address 94.232.116.128
+news.eweka.nl has address 81.171.92.233
+news.eweka.nl has address 81.171.92.205
+news.eweka.nl has address 81.171.92.219
+Host reader.eweka.nl not found: 3(NXDOMAIN)
+news.extremeusenet.nl has address 85.12.14.11
+news.extremeusenet.nl has address 85.12.14.12
+reader.extremeusenet.nl is an alias for news.usenetter.nl.
+news.usenetter.nl is an alias for usenetter.nntpxs.com.
+usenetter.nntpxs.com has address 195.200.85.22
+usenetter.nntpxs.com has address 195.200.85.21
+news.fastusenet.org has address 205.185.213.81
+news.fastusenet.org has address 205.185.213.80
+Host reader.fastusenet.org not found: 3(NXDOMAIN)
+Host news.firstload.com not found: 3(NXDOMAIN)
+Host reader.firstload.com not found: 3(NXDOMAIN)
+news.flashnewsgroups.com has address 74.209.131.18
+Host reader.flashnewsgroups.com not found: 3(NXDOMAIN)
+news.forteinc.com is an alias for forte.easynews.com.
+forte.easynews.com is an alias for forte.ams.easynews.com.
+forte.ams.easynews.com has address 81.171.92.195
+Host reader.forteinc.com not found: 3(NXDOMAIN)
+Host news.gebruikhet.net not found: 3(NXDOMAIN)
+Host reader.gebruikhet.net not found: 3(NXDOMAIN)
+news.giganews.com has address 216.166.105.131
+Host reader.giganews.com not found: 3(NXDOMAIN)
+Host news.highwinds.com not found: 3(NXDOMAIN)
+Host reader.highwinds.com not found: 3(NXDOMAIN)
+news.hitnews.com is an alias for hitnews.svc.highwinds-media.com.
+hitnews.svc.highwinds-media.com has address 81.171.92.192
+hitnews.svc.highwinds-media.com has address 81.171.118.175
+Host reader.hitnews.com not found: 3(NXDOMAIN)
+news.iload-usenet.com is an alias for newsfarm.ams2.highwinds-media.com.
+newsfarm.ams2.highwinds-media.com has address 81.171.118.142
+newsfarm.ams2.highwinds-media.com has address 81.171.118.141
+newsfarm.ams2.highwinds-media.com has address 81.171.118.140
+reader.iload-usenet.com has address 87.119.193.149
+news.i-telligent.com has address 91.234.215.206
+news.i-telligent.com mail is handled by 5 smtp.rzone.de.
+reader.i-telligent.com has address 91.234.215.206
+reader.i-telligent.com mail is handled by 5 smtp.rzone.de.
+Host news.maraschinoproject.com not found: 3(NXDOMAIN)
+Host reader.maraschinoproject.com not found: 3(NXDOMAIN)
+news.maximumusenet.com is an alias for iad.wholesalenewsinc.com.
+iad.wholesalenewsinc.com has address 69.16.179.20
+iad.wholesalenewsinc.com has address 69.16.179.21
+reader.maximumusenet.com has address 198.186.193.89
+news.megabitz.net has address 206.55.72.100
+Host reader.megabitz.net not found: 3(NXDOMAIN)
+news.mijnusenet.nl is an alias for reader.usenetter.nl.
+reader.usenetter.nl has address 85.12.14.22
+reader.usenetter.nl has address 85.12.14.21
+reader.mijnusenet.nl is an alias for news.usenetter.nl.
+news.usenetter.nl is an alias for usenetter.nntpxs.com.
+usenetter.nntpxs.com has address 195.200.85.21
+usenetter.nntpxs.com has address 195.200.85.22
+Host news.netfeeds.net not found: 3(NXDOMAIN)
+Host reader.netfeeds.net not found: 3(NXDOMAIN)
+news.astraweb.com has address 91.208.207.59
+news.astraweb.com has address 91.208.207.175
+news.astraweb.com has address 91.208.207.57
+news.astraweb.com has address 193.202.122.58
+news.astraweb.com has address 91.208.207.55
+news.astraweb.com has address 193.202.122.59
+news.astraweb.com has address 91.208.207.166
+news.astraweb.com has address 91.208.207.56
+Host reader.astraweb.com not found: 3(NXDOMAIN)
+news.newsbin.com has address 96.231.36.21
+Host reader.newsbin.com not found: 3(NXDOMAIN)
+news.newsconnection.eu has address 185.27.142.77
+reader.newsconnection.eu has address 94.232.116.71
+news.newsdemon.com is an alias for news.sslusenet.com.
+news.sslusenet.com is an alias for news.geo.sslusenet.com.
+news.geo.sslusenet.com is an alias for nl.sslusenet.com.
+nl.sslusenet.com has address 81.171.92.220
+nl.sslusenet.com has address 81.171.92.234
+Host reader.newsdemon.com not found: 3(NXDOMAIN)
+Host news.newsfusion.net not found: 3(NXDOMAIN)
+Host reader.newsfusion.net not found: 3(NXDOMAIN)
+news.newsgrabber.nl is an alias for newsgrabber.hostredirects.com.
+newsgrabber.hostredirects.com has address 91.223.220.40
+reader.newsgrabber.nl is an alias for newsgrabber.nl.
+newsgrabber.nl has address 91.205.192.246
+newsgrabber.nl mail is handled by 10 sf2.86id.nl.
+newsgrabber.nl mail is handled by 100 sf3.86id.nl.
+newsgrabber.nl mail is handled by 10 sf1.86id.nl.
+news.newsgroup-binaries.com is an alias for newsfarm.iad.highwinds-media.com.
+newsfarm.iad.highwinds-media.com has address 69.16.179.20
+newsfarm.iad.highwinds-media.com has address 69.16.179.21
+Host reader.newsgroup-binaries.com not found: 3(NXDOMAIN)
+news.newsgroupdirect.com is an alias for news.sslusenet.com.
+news.sslusenet.com is an alias for news.geo.sslusenet.com.
+news.geo.sslusenet.com is an alias for nl.sslusenet.com.
+nl.sslusenet.com has address 81.171.92.220
+nl.sslusenet.com has address 81.171.92.234
+Host reader.newsgroupdirect.com not found: 3(NXDOMAIN)
+Host news.newsgroups-download.com not found: 3(NXDOMAIN)
+Host reader.newsgroups-download.com not found: 3(NXDOMAIN)
+news.newsguy.com has address 74.209.136.98
+news.newsguy.com has address 74.209.136.92
+news.newsguy.com has address 74.209.136.99
+news.newsguy.com has address 74.209.136.95
+news.newsguy.com has address 74.209.136.94
+news.newsguy.com has address 74.209.136.89
+news.newsguy.com has address 74.209.136.97
+Host reader.newsguy.com not found: 3(NXDOMAIN)
+news.newshosting.com is an alias for news.ams.newshosting.com.
+news.ams.newshosting.com has address 81.171.92.238
+news.ams.newshosting.com has address 81.171.92.224
+Host reader.newshosting.com not found: 3(NXDOMAIN)
+news.newsleecher.com is an alias for news.geo.newsleecher.com.
+news.geo.newsleecher.com is an alias for eu.geo.newsleecher.com.
+eu.geo.newsleecher.com has address 81.171.118.146
+eu.geo.newsleecher.com has address 81.171.118.147
+eu.geo.newsleecher.com has address 81.171.118.148
+Host reader.newsleecher.com not found: 3(NXDOMAIN)
+news.newsoo.fr has address 185.9.23.21
+news.newsoo.fr has IPv6 address 2001:67c:1980:db::2
+Host reader.newsoo.fr not found: 3(NXDOMAIN)
+news.newsrazor.net has address 69.16.179.22
+news.newsrazor.net has address 69.16.179.23
+Host reader.newsrazor.net not found: 3(NXDOMAIN)
+news.newsreader.com is an alias for newsreader-ash.readnews.com.
+newsreader-ash.readnews.com has address 198.186.190.224
+Host reader.newsreader.com not found: 3(NXDOMAIN)
+news.newsxs.nl has address 91.223.220.11
+reader.newsxs.nl has address 91.223.220.11
+Host news.newznab.com not found: 3(NXDOMAIN)
+Host reader.newznab.com not found: 3(NXDOMAIN)
+news.nntpjunkie.com has address 74.209.137.68
+news.nntpjunkie.com has address 74.209.137.69
+news.nntpjunkie.com has address 74.209.137.67
+reader.nntpjunkie.com mail is handled by 10 mail.nntpjunkie.com.
+Host news.oznzb.com not found: 3(NXDOMAIN)
+Host reader.oznzb.com not found: 3(NXDOMAIN)
+Host news.powernews.nl not found: 3(NXDOMAIN)
+reader.powernews.nl has address 94.232.116.65
+news.powerusenet.com has address 216.166.105.161
+Host reader.powerusenet.com not found: 3(NXDOMAIN)
+Host news.premiumnews.de not found: 3(NXDOMAIN)
+Host reader.premiumnews.de not found: 3(NXDOMAIN)
+news.prepaid-usenet.de is an alias for newsfarm.ams2.highwinds-media.com.
+newsfarm.ams2.highwinds-media.com has address 81.171.118.140
+newsfarm.ams2.highwinds-media.com has address 81.171.118.142
+newsfarm.ams2.highwinds-media.com has address 81.171.118.141
+reader.prepaid-usenet.de has address 213.239.210.200
+news.pureusenet.nl has address 85.12.14.52
+news.pureusenet.nl has address 85.12.14.51
+Host reader.pureusenet.nl not found: 3(NXDOMAIN)
+news.readnews.com has address 198.186.190.61
+reader.readnews.com has address 198.186.190.61
+news.reddit.com has address 198.41.208.138
+news.reddit.com has address 198.41.209.136
+news.reddit.com has address 198.41.209.143
+news.reddit.com has address 198.41.209.138
+news.reddit.com has address 198.41.208.140
+news.reddit.com has address 198.41.209.142
+news.reddit.com has address 198.41.208.139
+news.reddit.com has address 198.41.209.139
+news.reddit.com has address 198.41.209.140
+news.reddit.com has address 198.41.208.137
+news.reddit.com has address 198.41.208.142
+news.reddit.com has address 198.41.209.141
+news.reddit.com has address 198.41.208.141
+news.reddit.com has address 198.41.209.137
+news.reddit.com has address 198.41.208.143
+reader.reddit.com has address 198.41.208.143
+reader.reddit.com has address 198.41.209.143
+reader.reddit.com has address 198.41.208.142
+reader.reddit.com has address 198.41.208.137
+reader.reddit.com has address 198.41.208.140
+reader.reddit.com has address 198.41.208.139
+reader.reddit.com has address 198.41.209.141
+reader.reddit.com has address 198.41.208.138
+reader.reddit.com has address 198.41.209.140
+reader.reddit.com has address 198.41.209.139
+reader.reddit.com has address 198.41.208.141
+reader.reddit.com has address 198.41.209.137
+reader.reddit.com has address 198.41.209.138
+reader.reddit.com has address 198.41.209.136
+reader.reddit.com has address 198.41.209.142
+news.redorbnews.com is an alias for newsfarm.iad.highwinds-media.com.
+newsfarm.iad.highwinds-media.com has address 69.16.179.20
+newsfarm.iad.highwinds-media.com has address 69.16.179.21
+Host reader.redorbnews.com not found: 3(NXDOMAIN)
+news.rhinonewsgroups.com has address 216.166.105.160
+Host reader.rhinonewsgroups.com not found: 3(NXDOMAIN)
+news.simonews.com is an alias for newsfarm.ams2.highwinds-media.com.
+newsfarm.ams2.highwinds-media.com has address 81.171.118.141
+newsfarm.ams2.highwinds-media.com has address 81.171.118.140
+newsfarm.ams2.highwinds-media.com has address 81.171.118.142
+Host reader.simonews.com not found: 3(NXDOMAIN)
+news.co.uk has address 143.252.148.217
+news.co.uk mail is handled by 1 aspmx.l.google.com.
+news.co.uk mail is handled by 10 alt3.aspmx.l.google.com.
+news.co.uk mail is handled by 5 alt1.aspmx.l.google.com.
+news.co.uk mail is handled by 10 alt4.aspmx.l.google.com.
+news.co.uk mail is handled by 5 alt2.aspmx.l.google.com.
+Host reader.co.uk not found: 2(SERVFAIL)
+news.smsusenet.nl has address 94.232.116.100
+reader.smsusenet.nl is an alias for smsusenet.nl.
+smsusenet.nl has address 149.210.131.235
+smsusenet.nl has IPv6 address 2a01:7c8:aab1:543::1
+smsusenet.nl mail is handled by 100 mail.smsusenet.nl.
+news.snelnl.com is an alias for newsfarm.ams2.highwinds-media.com.
+newsfarm.ams2.highwinds-media.com has address 81.171.118.141
+newsfarm.ams2.highwinds-media.com has address 81.171.118.140
+newsfarm.ams2.highwinds-media.com has address 81.171.118.142
+reader.snelnl.com is an alias for news.geo.highwinds-media.com.
+news.geo.highwinds-media.com is an alias for news.am4.highwinds-media.com.
+news.am4.highwinds-media.com has address 81.171.92.234
+news.am4.highwinds-media.com has address 81.171.92.220
+news.sonic-news.com has address 151.80.78.54
+Host reader.sonic-news.com not found: 3(NXDOMAIN)
+news.speedplaza.net is an alias for speedplaza.hostredirects.com.
+speedplaza.hostredirects.com has address 91.223.220.51
+reader.speedplaza.net has address 85.214.196.48
+news.ssl-news.info has address 94.232.116.92
+reader.ssl-news.info has address 94.232.116.92
+news.sunnyusenet.com has address 85.12.14.42
+news.sunnyusenet.com has address 85.12.14.41
+Host reader.sunnyusenet.com not found: 3(NXDOMAIN)
+news.supernews.com has address 138.199.68.130
+Host reader.supernews.com not found: 3(NXDOMAIN)
+Host news.supernewsfeed.com not found: 3(NXDOMAIN)
+Host reader.supernewsfeed.com not found: 3(NXDOMAIN)
+news.surfino.com is an alias for treonet.hostredirects.com.
+treonet.hostredirects.com has address 91.223.220.52
+Host reader.surfino.com not found: 3(NXDOMAIN)
+news.thecubenet.com is an alias for newsfarm.iad.highwinds-media.com.
+newsfarm.iad.highwinds-media.com has address 69.16.179.20
+newsfarm.iad.highwinds-media.com has address 69.16.179.21
+Host reader.thecubenet.com not found: 3(NXDOMAIN)
+news.thenewsgroups.com has address 69.16.179.21
+news.thenewsgroups.com has address 69.16.179.20
+Host reader.thenewsgroups.com not found: 3(NXDOMAIN)
+news.thundernews.com is an alias for news.sslusenet.com.
+news.sslusenet.com is an alias for news.geo.sslusenet.com.
+news.geo.sslusenet.com is an alias for nl.sslusenet.com.
+nl.sslusenet.com has address 81.171.92.220
+nl.sslusenet.com has address 81.171.92.234
+Host reader.thundernews.com not found: 3(NXDOMAIN)
+news.tigerusenet.com is an alias for us.sslusenet.com.
+us.sslusenet.com has address 69.16.179.23
+us.sslusenet.com has address 69.16.179.22
+reader.tigerusenet.com has address 198.186.193.86
+Host news.transxs.nl not found: 3(NXDOMAIN)
+Host reader.transxs.nl not found: 3(NXDOMAIN)
+news.tweaknews.eu has address 176.124.71.34
+Host reader.tweaknews.eu not found: 3(NXDOMAIN)
+news.united-newsserver.de has address 217.73.144.54
+Host reader.united-newsserver.de not found: 3(NXDOMAIN)
+news.usebits.net has address 94.232.116.93
+Host reader.usebits.net not found: 3(NXDOMAIN)
+news.usenet4u.nl has address 81.171.92.187
+reader.usenet4u.nl has address 62.221.196.37
+news.usenet-access.com is an alias for newsfarm.iad.highwinds-media.com.
+newsfarm.iad.highwinds-media.com has address 69.16.179.21
+newsfarm.iad.highwinds-media.com has address 69.16.179.20
+reader.usenet-access.com has address 74.86.70.62
+Host news.usenetbucket.com not found: 3(NXDOMAIN)
+reader.usenetbucket.com has address 94.232.116.115
+news.usenetcentral.com has address 198.186.190.221
+Host reader.usenetcentral.com not found: 3(NXDOMAIN)
+news.usenetmonster.com is an alias for news.newshosting.com.
+news.newshosting.com is an alias for news.ams.newshosting.com.
+news.ams.newshosting.com has address 81.171.92.224
+news.ams.newshosting.com has address 81.171.92.238
+Host reader.usenetmonster.com not found: 3(NXDOMAIN)
+news.usenet.net has address 216.166.105.171
+Host reader.usenet.net not found: 3(NXDOMAIN)
+news.usenetnewsserver.com has address 198.186.190.156
+reader.usenetnewsserver.com has address 64.38.197.137
+news.usenetrocket.com has address 198.186.190.150
+Host reader.usenetrocket.com not found: 3(NXDOMAIN)
+news.usenetserver.com is an alias for news.ams.usenetserver.com.
+news.ams.usenetserver.com has address 81.171.92.225
+news.ams.usenetserver.com has address 81.171.92.239
+Host reader.usenetserver.com not found: 3(NXDOMAIN)
+news.usenet-to-go.de has address 94.232.119.102
+Host reader.usenet-to-go.de not found: 3(NXDOMAIN)
+news.usenext.com has address 91.234.215.195
+Host reader.usenext.com not found: 3(NXDOMAIN)
+news.xennews.com is an alias for xennews.svc.highwinds-media.com.
+xennews.svc.highwinds-media.com has address 81.171.92.194
+xennews.svc.highwinds-media.com has address 81.171.118.173
+Host reader.xennews.com not found: 3(NXDOMAIN)
+news.xlned.com has address 85.12.14.31
+news.xlned.com has address 85.12.14.32
+Host reader.xlned.com not found: 3(NXDOMAIN)
+news.xs4all.nl has address 194.109.133.246
+news.xs4all.nl has IPv6 address 2001:888:0:4::119
+Host reader.xs4all.nl not found: 3(NXDOMAIN)
+Host news.xsnews.nl not found: 3(NXDOMAIN)
+reader.xsnews.nl has address 94.232.116.131
+Host news.xsusenet.com not found: 3(NXDOMAIN)
+reader.xsusenet.com has address 81.171.92.188
+news.lad1337.de mail is handled by 5 smtp.rzone.de.
+reader.lad1337.de mail is handled by 5 smtp.rzone.de.
+news.xlusenet.nl is an alias for newsfarm.ams2.highwinds-media.com.
+newsfarm.ams2.highwinds-media.com has address 81.171.118.140
+newsfarm.ams2.highwinds-media.com has address 81.171.118.142
+newsfarm.ams2.highwinds-media.com has address 81.171.118.141
+Host reader.xlusenet.nl not found: 3(NXDOMAIN)
+news.yabnews.nl has address 94.232.116.127
+Host reader.yabnews.nl not found: 3(NXDOMAIN)
+Host news.z51.b not found: 3(NXDOMAIN)
+Host reader.z51.b not found: 3(NXDOMAIN)
+news.z51.biz is an alias for z51biz.hostredirects.com.
+z51biz.hostredirects.com has address 91.223.220.67
+Host reader.z51.biz not found: 3(NXDOMAIN)

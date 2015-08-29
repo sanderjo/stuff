@@ -23,7 +23,7 @@ except:
 	sys.exit(1)
 
 print s.getwelcome()
-print s.help()
+#print s.help()
 print s.quit()
 socket.setdefaulttimeout(orig_timeout)
 
