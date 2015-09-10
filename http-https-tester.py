@@ -8,7 +8,7 @@ urllist= [
         'https://www.google.com/',
         'http://api.nzbgeek.info/api?t=get&id=xxx&apikey=yy',
         'https://api.nzbgeek.info/api?t=get&id=xxx&apikey=yy',
-        'https://tv.eurosport.nl/'
+        'https://tv.eurosport.nl/',
         'http://does.not.exist/'
     ]
 
@@ -19,4 +19,7 @@ for url in urllist:
                 result = f.read()[:100]
                 print "URL ", url, "OK, with result", result
         except:
-                print "URL ", url, "not OK"
+                print "URL ", url, "not OK, with error ",  sys.exc_info()[0]
+		pass
+
+print "Finished"
