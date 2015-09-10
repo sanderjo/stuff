@@ -1,4 +1,7 @@
 import urllib2
+import sys
+
+print "Python version", sys.version
 
 urllist= [
         'http://www.google.com/',
