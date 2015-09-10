@@ -12,6 +12,7 @@ urllist= [
         'https://api.nzbgeek.info/api?t=get&id=xxx&apikey=yy',
         'https://tv.eurosport.nl/',
         'http://does.not.exist/',
+	'https://nzbindex.com/',
 	'https://raw.githubusercontent.com/'
     ]
 
@@ -19,7 +20,7 @@ urllist= [
 for url in urllist:
         try:
                 f = urllib2.urlopen(url, timeout=4)    # timeout 4 seconds, in case website is not accessible
-                result = f.read()[:100]
+                result = f.read()[:100].replace('\n', ' ').replace('\r', '')
                 print "URL ", url, "OK, with result", result
         except:
                 print "URL ", url, "not OK, with error ",  sys.exc_info()[0]
