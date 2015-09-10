@@ -7,7 +7,9 @@ urllist= [
         'http://www.google.com/',
         'https://www.google.com/',
         'http://api.nzbgeek.info/api?t=get&id=xxx&apikey=yy',
-        'https://api.nzbgeek.info/api?t=get&id=xxx&apikey=yy'
+        'https://api.nzbgeek.info/api?t=get&id=xxx&apikey=yy',
+        'https://tv.eurosport.nl/'
+        'http://does.not.exist/'
     ]
 
 
