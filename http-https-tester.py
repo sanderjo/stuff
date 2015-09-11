@@ -2,6 +2,7 @@
 
 import urllib2
 import sys
+import ssl
 
 print "Python version", sys.version
 
@@ -22,8 +23,14 @@ for url in urllist:
                 f = urllib2.urlopen(url, timeout=4)    # timeout 4 seconds, in case website is not accessible
                 result = f.read()[:100].replace('\n', ' ').replace('\r', '')
                 print "URL ", url, "OK, with result", result
-        except:
-                print "URL ", url, "not OK, with error ",  sys.exc_info()[0]
+	except urllib2.URLError as e:
+                print "URL ", url, "not OK, with error ",  sys.exc_info()[0], "with reason", e  
+		pass
+	except ssl.CertificateError as e:
+                print "URL ", url, "not OK, with error ",  sys.exc_info()[0], "with reason", e 
+		pass
+	except Exception as e:
+                print "URL ", url, "not OK, with error ",  sys.exc_info()[0], "with reason", e 
 		pass
 
 print "Finished"
