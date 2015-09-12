@@ -8,7 +8,7 @@ logger.setLevel(logging.DEBUG)
 # ugly hack:
 class MyClass:
     def ipv6_test_host(self):
-        return 'test-ipv6.sabnzbd.orgXXX'
+        return 'test-ipv6.sabnzbd.org'
 
 cfg = MyClass()
 print "test_host is", cfg.ipv6_test_host()
