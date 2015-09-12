@@ -44,5 +44,7 @@ def test_ipv6():
 
 
 
-print "test_ipv6() is", test_ipv6()
+result = test_ipv6()
+print "test_ipv6() is", result
+
 
