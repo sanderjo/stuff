@@ -5,6 +5,20 @@
 # Method: Start parallel sessions using threads, and only wait for the quickest succesful socket connect
 # If the HOST has an IPv6 address, IPv6 is given a head start by delaying IPv4. See https://tools.ietf.org/html/rfc6555#section-4.1
 
+# You can run this as a standalone program, or as a module:
+'''
+from happyeyeballs import happyeyeballs
+print happyeyeballs('newszilla.xs4all.nl', port=119)
+'''
+# or with more logging:
+'''
+from happyeyeballs import happyeyeballs
+import logging
+logger = logging.getLogger('')
+logger.setLevel(logging.DEBUG)
+print happyeyeballs('newszilla.xs4all.nl', port=119)
+'''
+
 import socket
 import ssl
 import Queue
@@ -12,11 +26,13 @@ import threading
 import time
 import logging
 
+DEBUG = False
+
 
 # called by each thread
 def do_socket_connect(queue, ip, PORT, SSL, ipv4delay):
     # connect to the ip, and put the result into the queue
-    logging.debug("Input for thread is %s %s %s", ip, PORT, SSL)
+    if DEBUG: logging.debug("Input for thread is %s %s %s", ip, PORT, SSL)
 
     try:
         # CREATE SOCKET
@@ -40,10 +56,10 @@ def do_socket_connect(queue, ip, PORT, SSL, ipv4delay):
             # CLOSE SOCKET CONNECTION
             wrappedSocket.close()
         queue.put((ip, "OK"))
-        logging.debug("connect to %s OK", ip)
+        if DEBUG: logging.debug("connect to %s OK", ip)
     except:
         queue.put((ip, "NOT OK"))
-        logging.debug("connect to %s not OK", ip)
+        if DEBUG: logging.debug("connect to %s not OK", ip)
         pass
 
 
@@ -59,20 +75,19 @@ def happyeyeballs(HOST, **kwargs):
     try:
         preferipv6=kwargs['preferipv6']
     except:
-        preferipv6=True
+        preferipv6=True	# prefer IPv6, so give IPv6 connects a head start by delaying IPv4
 
     start = time.clock()
-    logging.debug("\n\n%s %s %s %s", HOST, PORT, SSL, preferipv6)
+    if DEBUG: logging.debug("\n\n%s %s %s %s", HOST, PORT, SSL, preferipv6)
 
     ipv4delay=0
     try:
         info = socket.getaddrinfo(HOST, 80, socket.AF_INET6, socket.SOCK_STREAM, socket.IPPROTO_IP, socket.AI_CANONNAME)
-        logging.debug("IPv6 address found for %s", HOST)
+        if DEBUG: logging.debug("IPv6 address found for %s", HOST)
         if preferipv6:
-            ipv4delay=0.3    # preferipv6, AND at least one IPv6 found, so give IPv4 (!) a delay so that IPv6 has a head start and is preferred
+            ipv4delay=0.2    # preferipv6, AND at least one IPv6 found, so give IPv4 (!) a delay so that IPv6 has a head start and is preferred
     except:
-        logging.debug("No IPv6 address found for %s", HOST)
-        ipv4delay=0
+        if DEBUG: logging.debug("No IPv6 address found for %s", HOST)
 
     myqueue = Queue.Queue()    # queue used for threads giving back the results
 
@@ -95,7 +110,7 @@ def happyeyeballs(HOST, **kwargs):
 
         #print "Quickest", result
     except:
-        logging.debug("some went wrong in the try block")
+        if DEBUG: logging.debug("some went wrong in the try block")
         result = None
     logging.info("Quickest IP address for %s (port %s, ssl %s, preferipv6 %s) is %s", HOST, PORT, SSL, preferipv6, result)
     delay = 1000.0*(time.clock() - start)
@@ -107,8 +122,8 @@ def happyeyeballs(HOST, **kwargs):
 if __name__ == '__main__':
 
     logger = logging.getLogger('')
-    #logger.setLevel(logging.INFO)
-    logger.setLevel(logging.DEBUG)
+    logger.setLevel(logging.INFO)
+    if DEBUG: logger.setLevel(logging.DEBUG)
 
     # plain HTTP/HTTPS sites:
     print happyeyeballs('www.google.com')
