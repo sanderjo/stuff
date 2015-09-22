@@ -56,14 +56,20 @@ def happyeyeballs(HOST, **kwargs):
         SSL=kwargs['ssl']
     except:
         SSL=False
+    try:
+        preferipv6=kwargs['preferipv6']
+    except:
+        preferipv6=True
 
     start = time.clock()
-    logging.debug("\n\n%s %s %s", HOST, PORT, SSL)
+    logging.debug("\n\n%s %s %s %s", HOST, PORT, SSL, preferipv6)
 
+    ipv4delay=0
     try:
         info = socket.getaddrinfo(HOST, 80, socket.AF_INET6, socket.SOCK_STREAM, socket.IPPROTO_IP, socket.AI_CANONNAME)
         logging.debug("IPv6 address found for %s", HOST)
-        ipv4delay=0.3    # at least one IPv6 found, so give IPv4 (!) a delay so that IPv6 has a head start and is preferred
+        if preferipv6:
+            ipv4delay=0.3    # preferipv6, AND at least one IPv6 found, so give IPv4 (!) a delay so that IPv6 has a head start and is preferred
     except:
         logging.debug("No IPv6 address found for %s", HOST)
         ipv4delay=0
@@ -91,7 +97,7 @@ def happyeyeballs(HOST, **kwargs):
     except:
         logging.debug("some went wrong in the try block")
         result = None
-    logging.info("Quickest IP address for %s (port %s, ssl %s) is %s", HOST, PORT, SSL, result)
+    logging.info("Quickest IP address for %s (port %s, ssl %s, preferipv6 %s) is %s", HOST, PORT, SSL, preferipv6, result)
     delay = 1000.0*(time.clock() - start)
     logging.debug("Happy Eyeballs lookup took %s microseconds", delay)
     return result
@@ -116,6 +122,7 @@ if __name__ == '__main__':
     print happyeyeballs('block.cheapnews.eu', port=443, ssl=True)
     print happyeyeballs('sslreader.eweka.nl', port=563, ssl=True)
     print happyeyeballs('news.thundernews.com', port=119)
+    print happyeyeballs('news.thundernews.com', port=119, preferipv6=False)
     print happyeyeballs('secure.eu.thundernews.com', port=563, ssl=True)
 
 
