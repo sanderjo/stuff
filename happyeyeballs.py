@@ -101,7 +101,7 @@ def happyeyeballs(HOST, **kwargs):
 if __name__ == '__main__':
 
     logger = logging.getLogger('')
-    logger.setLevel(logging.INFO)
+    #logger.setLevel(logging.INFO)
     logger.setLevel(logging.DEBUG)
 
     # plain HTTP/HTTPS sites:
@@ -115,6 +115,10 @@ if __name__ == '__main__':
     print happyeyeballs('block.cheapnews.eu', port=119)
     print happyeyeballs('block.cheapnews.eu', port=443, ssl=True)
     print happyeyeballs('sslreader.eweka.nl', port=563, ssl=True)
+    print happyeyeballs('news.thundernews.com', port=119)
+    print happyeyeballs('secure.eu.thundernews.com', port=563, ssl=True)
+
+
 
     # Strange cases
     print happyeyeballs('does.not.resolve', port=443, ssl=True)
