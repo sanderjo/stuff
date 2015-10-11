@@ -35,7 +35,8 @@ except:
 print "Request, with User-Agent header:"
 try:
     req = urllib2.Request(url, headers={'User-Agent' : "Some Browser Header"}) 
-    print "looks good:", urllib2.urlopen(req).read()[:100]
+    page = urllib2.urlopen(req).read()[:100]
+    print "looks good:", page
 except urllib2.HTTPError, e:
     print "HTTPError", e.code
 except urllib2.URLError, e:
