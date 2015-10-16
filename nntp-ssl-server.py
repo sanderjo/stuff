@@ -34,6 +34,7 @@ if welcomemsg.find('200')>-1:
 
 #print send("HELP")
 #print send("LIST")
+
 send("QUIT")
 
 s.close()
