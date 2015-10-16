@@ -5,6 +5,7 @@ import urllib2
 
 logger = logging.getLogger('')
 logger.setLevel(logging.DEBUG)
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s %(name)-12s %(levelname)-8s %(message)s')
 
 # ugly hack:
 class MyClass:
@@ -20,11 +21,15 @@ print "test_host is", cfg.ipv6_test_host()
 
 def test_ipv6():
     """ Check if external IPv6 addresses are reachable """
+    logging.debug("Starting DNS lookup")
     try:
         info = socket.getaddrinfo(cfg.ipv6_test_host(), 80, socket.AF_INET6, socket.SOCK_STREAM, socket.IPPROTO_IP, socket.AI_CANONNAME)
     except:
         logging.debug('Test IPv6: Problem during IPv6 name lookup. Disabling IPv6. Reason: %s', sys.exc_info()[0] )
         return False
+    logging.debug("Finished DNS lookup")
+
+    logging.debug("Starting socket connect")
 
     try:
         af, socktype, proto, canonname, sa = info[0]

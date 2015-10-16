@@ -11,9 +11,10 @@ urllist= [
         'https://www.google.com/',
         'http://api.nzbgeek.info/api?t=get&id=xxx&apikey=yy',
         'https://api.nzbgeek.info/api?t=get&id=xxx&apikey=yy',
+        'https://api.oznzb.com/api?t=search&q=linux&apikey=5a83asomethingwrong',
         'https://tv.eurosport.nl/',
         'http://does.not.exist/',
-	'https://nzbindex.com/',
+	'https://nzbindex.nl/',
 	'https://raw.githubusercontent.com/'
     ]
 
